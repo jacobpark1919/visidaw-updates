@@ -1,0 +1,9 @@
+{
+  "assetURL": "https://github.com/jacobpark1919/visidaw-updates/releases/download/testing-v0.2.4/VisiDAW-0.2.4-macos-universal.dmg",
+  "bytes": 426035904,
+  "reviewSha256": "39e4d46e667608a124eecedbbaef3aff8c45a783a43c44dcea9b50003801110e",
+  "schemaVersion": 1,
+  "sha256": "361f2857c41ba434d4ce0897f6fa6ce393d80c0b64cdd75dc86b212800e2ab38",
+  "updateChannel": "TESTING",
+  "version": "0.2.4"
+}

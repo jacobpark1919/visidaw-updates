@@ -1,0 +1,33 @@
+<?xml version="1.0" standalone="yes"?><!-- sparkle-sign-warning:
+IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
+--><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>VisiDAW</title>
+        <item>
+            <title>0.2.4</title>
+            <pubDate>Wed, 28 Oct 2026 20:38:53 -0400</pubDate>
+            <sparkle:version>0.2.4</sparkle:version>
+            <sparkle:shortVersionString>0.2.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<pre>VisiDAW 0.2.4 — Testing release
+
+This candidate uses production Polar licensing and the TESTING update feed.
+A valid VisiDAW license is required for initial activation. Existing accepted
+production activations retain the same Keychain identity across updates.
+
+Includes Sparkle 2.10.0 update support and the shared safe-quit flow for saving
+work and deferring shutdown during active recording, playback, or export.
+The application and bundled FFmpeg tools contain Apple Silicon and Intel slices
+and target macOS 12 or later.
+
+Phone/WebRTC recording and MP4 export remain experimental. This candidate is
+for qualification; device behavior and the live update path require manual
+validation. It is not a STABLE release.
+</pre>]]></description>
+            <enclosure url="https://github.com/jacobpark1919/visidaw-updates/releases/download/testing-v0.2.4/VisiDAW-0.2.4-macos-universal.dmg" length="426035904" type="application/octet-stream" sparkle:edSignature="R08GiG2mLAs6+1jj1IdsYYOeen1hrPTuE/nmTt0ATkIZC6uEPDqjRrkOPan7yfJPD+atMKHFOJCCUNael6bpDQ=="></enclosure>
+        </item>
+    </channel>
+</rss><!-- sparkle-signatures:
+edSignature: Q/pPFyhnxy55zB8NvdkVOHiB83sCKhQ6EJ86lX4Qr748+Erj9q/kcakZk/2gioeQw8ThGvIjn+kx5qId0BYGBg==
+length: 1864
+-->
