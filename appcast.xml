@@ -1,8 +1,21 @@
-<?xml version="1.0" standalone="yes"?><!-- sparkle-sign-warning:
+<?xml version="1.0" standalone="yes"?>
+<!-- sparkle-sign-warning:
 IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
---><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+-->
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <title>VisiDAW</title>
+        <item>
+            <title>0.2.8</title>
+            <pubDate>Thu, 29 Oct 2026 01:43:21 -0400</pubDate>
+            <sparkle:version>0.2.8</sparkle:version>
+            <sparkle:shortVersionString>0.2.8</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<pre>Test
+Phone/WebRTC recording and MP4 export remain experimental.
+</pre>]]></description>
+            <enclosure url="https://github.com/jacobpark1919/visidaw-updates/releases/download/v0.2.8/VisiDAW-0.2.8-macos-universal.dmg" length="426029959" type="application/octet-stream" sparkle:edSignature="3Sb3cM5SM/EIAatRbvXAFe47Wo3CILmyFVW8Ri0UwSpkOX0mvyL8HjkXk8cnh7qcQdWJhh3M4d6sHp8hmLVdDg=="/>
+        </item>
         <item>
             <title>0.2.5</title>
             <pubDate>Wed, 28 Oct 2026 22:56:53 -0400</pubDate>
@@ -25,10 +38,11 @@ Source SHA-256: 203172291b93231ac8b5dc6ae7ef58844fa0b0c8ffb4aba4c60065a539e0c885
 
 This software is based in part on the work of the Independent JPEG Group. Component license texts and notices are included with the app and source archive.
 </pre>]]></description>
-            <enclosure url="https://github.com/jacobpark1919/visidaw-updates/releases/download/v0.2.5/VisiDAW-0.2.5-macos-universal.dmg" length="426036074" type="application/octet-stream" sparkle:edSignature="S8esvh+CpfLPW0/VJZzncLuci5kSKhq9lIRijslWY7hqBm4fpXYmzMBQI9fNlzHEmzRfI0zJ+y19QEpou9x5DA=="></enclosure>
+            <enclosure url="https://github.com/jacobpark1919/visidaw-updates/releases/download/v0.2.5/VisiDAW-0.2.5-macos-universal.dmg" length="426036074" type="application/octet-stream" sparkle:edSignature="S8esvh+CpfLPW0/VJZzncLuci5kSKhq9lIRijslWY7hqBm4fpXYmzMBQI9fNlzHEmzRfI0zJ+y19QEpou9x5DA=="/>
         </item>
     </channel>
-</rss><!-- sparkle-signatures:
-edSignature: bz+kdVScdhPnxcvx/rt5zz+HAjXEfyWPHPn3R8qZ0RCtwgOFR4MNoaY0qw+1ryfDCKF5bqsjmfKfVP4egHtmDg==
-length: 2271
+</rss>
+<!-- sparkle-signatures:
+edSignature: ImJOW3somFmOyCbTunnotHgciP/NFw31Yt2lmrj8P6wKeWyhjJmebyMs4BklJh/66s4St6TlLuIxH0Iv7hp7DQ==
+length: 3024
 -->

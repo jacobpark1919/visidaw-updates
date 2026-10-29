@@ -1,0 +1,9 @@
+{
+  "assetURL": "https://github.com/jacobpark1919/visidaw-updates/releases/download/v0.2.8/VisiDAW-0.2.8-macos-universal.dmg",
+  "bytes": 426029959,
+  "reviewSha256": "1d3b53e7ea5793801484444ad823eaf8c6a9ddebc52aafc044882003cea7b976",
+  "schemaVersion": 1,
+  "sha256": "fa516210bfd0f97737154080b73a55d723dbacfb3c6bbe68a3ffeab0f25dc21f",
+  "updateChannel": "STABLE",
+  "version": "0.2.8"
+}
