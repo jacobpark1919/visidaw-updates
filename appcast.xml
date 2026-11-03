@@ -6,6 +6,20 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>VisiDAW</title>
         <item>
+            <title>0.2.10</title>
+            <pubDate>Tue, 03 Nov 2026 02:01:12 -0500</pubDate>
+            <sparkle:version>0.2.10</sparkle:version>
+            <sparkle:shortVersionString>0.2.10</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<pre>- Hardened export 
+- Fixed common bugs
+- Fixed frozen playhead bug
+Phone/WebRTC recording and MP4 export remain experimental.
+FFmpeg corresponding source: https://github.com/jacobpark1919/visidaw-updates/releases/download/ffmpeg-source-8.1.2-macos-universal/VisiDAW-FFmpeg-8.1.2-macos-universal-source.tar.xz
+</pre>]]></description>
+            <enclosure url="https://github.com/jacobpark1919/visidaw-updates/releases/download/v0.2.10/VisiDAW-0.2.10-macos-universal.dmg" length="426414023" type="application/octet-stream" sparkle:edSignature="W3+z+4dIwq+HAkDgpE5c/auIcmVzAq2/Fooim+0ykk+2BF4LknV4/0jr5lVVXoPvuzJ26VHQxBvWL6bdE+2jDw=="/>
+        </item>
+        <item>
             <title>0.2.8</title>
             <pubDate>Thu, 29 Oct 2026 01:43:21 -0400</pubDate>
             <sparkle:version>0.2.8</sparkle:version>
@@ -43,6 +57,6 @@ This software is based in part on the work of the Independent JPEG Group. Compon
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: ImJOW3somFmOyCbTunnotHgciP/NFw31Yt2lmrj8P6wKeWyhjJmebyMs4BklJh/66s4St6TlLuIxH0Iv7hp7DQ==
-length: 3024
+edSignature: 0cSvaWm/toRRjMuQhwkI9BczwyuxPjzYzAGkMVCHg+tlNCB6r9L/AvrK8ltwBykdEE3H6LoIPxmt7H0jgDgRAg==
+length: 4035
 -->
