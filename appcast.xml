@@ -6,6 +6,21 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>VisiDAW</title>
         <item>
+            <title>0.3.0</title>
+            <pubDate>Sat, 07 Nov 2026 13:32:10 -0500</pubDate>
+            <sparkle:version>0.3.0</sparkle:version>
+            <sparkle:shortVersionString>0.3.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<pre>- Added a 7 day free trial. This is packaged directly inside the same .dmg file.
+- Removed dreamy haze and hacker themes
+- Added an experimental screen export feature
+- Plugins sort in alphabetical order
+- Fixed manual sync not working for phone as webcam
+- Added a search menu when you right click an effect
+- Changed &#x27;FX&#x27; tab to FX/Plugins</pre>]]></description>
+            <enclosure url="https://github.com/jacobpark1919/visidaw-updates/releases/download/v0.3.0/VisiDAW-0.3.0-macos-universal.dmg" length="426750015" type="application/octet-stream" sparkle:edSignature="8rUq6GlAks+ZdUfknruc55v+xpn1AnzzT/3LLH00nGbqJwj34Pw3GI4iNePj1hQww8P5XA5AdTpqEQWPF2ijDQ=="/>
+        </item>
+        <item>
             <title>0.2.11</title>
             <pubDate>Tue, 03 Nov 2026 19:20:23 -0500</pubDate>
             <sparkle:version>0.2.11</sparkle:version>
@@ -67,6 +82,6 @@ This software is based in part on the work of the Independent JPEG Group. Compon
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: 98PbPkGV6Tsf2666RLKzFd9eRFQLmUkHE8iQGtgV3HwWCZKk7cffleYsMGBTPMuGc27O4EooG0w3oq8pv5fRDQ==
-length: 4787
+edSignature: rR/E0RFcwT+Usvz1lnCCxuesgw1mSpUpw6/4oho7Pnq3I2zG1W3TuAxd4v9Zgz6wMl9jHB4H9NsX0XfshpseBg==
+length: 5835
 -->
