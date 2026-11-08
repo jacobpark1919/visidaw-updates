@@ -1,0 +1,9 @@
+{
+  "assetURL": "https://github.com/jacobpark1919/visidaw-updates/releases/download/v0.3.1/VisiDAW-0.3.1-macos-universal.dmg",
+  "bytes": 426546308,
+  "reviewSha256": "a5ae631146070c9462aec2f6d80faf15b98fde9ba1534b7f2ee581e0824ec741",
+  "schemaVersion": 1,
+  "sha256": "b848140a5bd07d11eb7321e0a816e5cbc6c5c88dfab14ff730db74ff77986009",
+  "updateChannel": "STABLE",
+  "version": "0.3.1"
+}
