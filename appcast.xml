@@ -6,6 +6,16 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>VisiDAW</title>
         <item>
+            <title>0.3.2</title>
+            <pubDate>Sun, 08 Nov 2026 23:10:35 -0500</pubDate>
+            <sparkle:version>0.3.2</sparkle:version>
+            <sparkle:shortVersionString>0.3.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<pre>- The &quot;Custom Layout...&quot; Feature allows for much more flexibility in video editing now. You can move videos around, crop them, and resize them to your desire.
+- Hardened VisiDAW security.</pre>]]></description>
+            <enclosure url="https://github.com/jacobpark1919/visidaw-updates/releases/download/v0.3.2/VisiDAW-0.3.2-macos-universal.dmg" length="427086066" type="application/octet-stream" sparkle:edSignature="2fm4VGA0oMUfnjfznEsJD9vrXeVTl4ikHs0gYhjpJf03s/RaXf7oTPA8NDJp0OB+SEhAYApc7j1IWTc5+RQTDg=="/>
+        </item>
+        <item>
             <title>0.3.1</title>
             <pubDate>Sun, 08 Nov 2026 16:47:27 -0500</pubDate>
             <sparkle:version>0.3.1</sparkle:version>
@@ -94,6 +104,6 @@ This software is based in part on the work of the Independent JPEG Group. Compon
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: UcW7xdq9Bma7/i3iIn10WnJVxItwOMznceNiN0eyoUpaSmbjBEkewwbyrwrZwYHLs6W79t6cv/7xzKaEHr9nAA==
-length: 6793
+edSignature: vfCYeybDvMKCxv7Z+tCx7flCXjQR9OcHQs6bWcRk/p3ehadbLE0W9OXTcPQD6N0L9IFLO40Bssed5Zfmof3dAg==
+length: 7687
 -->
