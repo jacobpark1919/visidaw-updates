@@ -6,6 +6,15 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>VisiDAW</title>
         <item>
+            <title>1.0.0</title>
+            <pubDate>Fri, 13 Nov 2026 01:53:25 -0500</pubDate>
+            <sparkle:version>1.0.0</sparkle:version>
+            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<pre>- Version 1.0.0 of VisiDAW officially released! </pre>]]></description>
+            <enclosure url="https://github.com/jacobpark1919/visidaw-updates/releases/download/v1.0.0/VisiDAW-1.0.0-macos-universal.dmg" length="427091811" type="application/octet-stream" sparkle:edSignature="/yByBcV8VSD1hGUi7Kkqk3CBG9ZZZ7apqm87sVE8/gbj4oCXuk/8pHuGQQPaGsKE7+kHOWz0lqoCC20WjFZ6AQ=="/>
+        </item>
+        <item>
             <title>0.3.2</title>
             <pubDate>Sun, 08 Nov 2026 23:10:35 -0500</pubDate>
             <sparkle:version>0.3.2</sparkle:version>
@@ -104,6 +113,6 @@ This software is based in part on the work of the Independent JPEG Group. Compon
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: vfCYeybDvMKCxv7Z+tCx7flCXjQR9OcHQs6bWcRk/p3ehadbLE0W9OXTcPQD6N0L9IFLO40Bssed5Zfmof3dAg==
-length: 7687
+edSignature: wuIk4832TUNW10irqPlsaxVHwIb0e7x+F3vU0C9ToN2Ew0CVHamqwSe/+1Q1KxPBz/O25s/Est41I3obvfhEDA==
+length: 8432
 -->
