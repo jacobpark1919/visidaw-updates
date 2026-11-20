@@ -6,6 +6,18 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>VisiDAW</title>
         <item>
+            <title>1.0.1</title>
+            <pubDate>Fri, 20 Nov 2026 12:35:52 -0500</pubDate>
+            <sparkle:version>1.0.1</sparkle:version>
+            <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<pre>- 1080p phone-as-webcam video recording is here!
+- Fixed bug where the first -3 seconds of an exported phone-as-webcam video recording would be laggy/choppy
+- Phone as webcam exports now have less lag
+</pre>]]></description>
+            <enclosure url="https://github.com/jacobpark1919/visidaw-updates/releases/download/v1.0.1/VisiDAW-1.0.1-macos-universal.dmg" length="426826407" type="application/octet-stream" sparkle:edSignature="athJQV5LY3i1iJ/vjWfiBkPJ6TaY3E6Flek21GeX4xi/X6Pe/GU6SwEA55R7C9CBJCRq/YBRXt3iSueu5zEpCg=="/>
+        </item>
+        <item>
             <title>1.0.0</title>
             <pubDate>Fri, 13 Nov 2026 01:53:25 -0500</pubDate>
             <sparkle:version>1.0.0</sparkle:version>
@@ -113,6 +125,6 @@ This software is based in part on the work of the Independent JPEG Group. Compon
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: wuIk4832TUNW10irqPlsaxVHwIb0e7x+F3vU0C9ToN2Ew0CVHamqwSe/+1Q1KxPBz/O25s/Est41I3obvfhEDA==
-length: 8432
+edSignature: jyjAfK0NrxvlXlMspjHbHXrVaplIKsu9OZgSa0aN06akDgMV4pEIHluh0WCBu1zhU2qN0vIz1VpD5Zh21IQQBA==
+length: 9330
 -->
